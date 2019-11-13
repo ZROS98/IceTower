@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34315a95-aa0f-4c68-b05f-c03d7577adf7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IceTower" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A8DC567-3A4E-4788-B5AC-1561569747AB/bb/2a1b34d0/SendMouseEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickSetterExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/47B3FEC5-F420-47E6-A737-8D0F615D9F0C/db/edaca4ad/VisualTreeUpdater.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/8a/9147425c/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/599589BF-4CE2-4890-9B8A-14CBE4A2034E/b9/8edcd80f/IntPtr.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/FinalScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PoolObject/PlatformCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/c3/a9d74959/Renderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PoolObject/Platform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Restart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ScoreController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScrollUV.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/f4/017ce60c/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sounds/JumpSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base/Joystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../CapsulePicker/Assets/Scripts/Spawner.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B711263B-E681-49A9-934E-586BE1EF07C3/46/d6c7cc90/Animator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_ColorGradient.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Test1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Test2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RoofPenetration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPool/Pool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPool/PoolConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPool/PoolSetup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPool/PoolManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Platform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlatformPicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BorderMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlatformCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScrollUV.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TEST.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlatformController/PlatformCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/JumpSound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlatformController/PlatformPicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPool/PoolObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FinalScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Restart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Joystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/JoystickController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DieSpace.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/CharacterController2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sounds/JumpSound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ScoreController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Restart.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SWGMG8DzjXNsVw9q4SDaAZmgXv" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="3024">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="3024" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34315a95-aa0f-4c68-b05f-c03d7577adf7" name="Default Changelist" comment="" />
+      <created>1571671889409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571671889409</updated>
+      <workItem from="1571671892966" duration="19731000" />
+      <workItem from="1571752970452" duration="398000" />
+      <workItem from="1571835472009" duration="20296000" />
+      <workItem from="1571939527409" duration="1818000" />
+      <workItem from="1572117319128" duration="6503000" />
+      <workItem from="1572211483260" duration="10610000" />
+      <workItem from="1572281672746" duration="11509000" />
+      <workItem from="1572364626230" duration="9981000" />
+      <workItem from="1572424179344" duration="531000" />
+      <workItem from="1572458393191" duration="2072000" />
+      <workItem from="1572708697737" duration="7057000" />
+      <workItem from="1572880339403" duration="941000" />
+      <workItem from="1572969498941" duration="15900000" />
+      <workItem from="1572987477902" duration="651000" />
+      <workItem from="1573073224783" duration="5763000" />
+      <workItem from="1573145635776" duration="219000" />
+      <workItem from="1573309643312" duration="4690000" />
+      <workItem from="1573314468800" duration="683000" />
+      <workItem from="1573315181718" duration="888000" />
+      <workItem from="1573499339342" duration="9060000" />
+      <workItem from="1573589418280" duration="1627000" />
+      <workItem from="1573668236638" duration="7148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="401" height="465" key="DebuggerActiveHint" />
+    <state width="401" height="465" key="DebuggerActiveHint/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.0.bottom" />
+    <state width="1877" height="171" key="GridCell.Tab.0.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.0.center" />
+    <state width="1877" height="171" key="GridCell.Tab.0.center/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.0.left" />
+    <state width="1877" height="171" key="GridCell.Tab.0.left/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.0.right" />
+    <state width="1877" height="171" key="GridCell.Tab.0.right/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.1.bottom" />
+    <state width="1877" height="171" key="GridCell.Tab.1.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.1.center" />
+    <state width="1877" height="171" key="GridCell.Tab.1.center/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.1.left" />
+    <state width="1877" height="171" key="GridCell.Tab.1.left/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.1.right" />
+    <state width="1877" height="171" key="GridCell.Tab.1.right/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.2.bottom" />
+    <state width="1877" height="171" key="GridCell.Tab.2.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.2.center" />
+    <state width="1877" height="171" key="GridCell.Tab.2.center/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.2.left" />
+    <state width="1877" height="171" key="GridCell.Tab.2.left/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.2.right" />
+    <state width="1877" height="171" key="GridCell.Tab.2.right/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.3.bottom" />
+    <state width="1877" height="171" key="GridCell.Tab.3.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.3.center" />
+    <state width="1877" height="171" key="GridCell.Tab.3.center/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.3.left" />
+    <state width="1877" height="171" key="GridCell.Tab.3.left/1920.1080/1920.1080" />
+    <state width="1877" height="171" key="GridCell.Tab.3.right" />
+    <state width="1877" height="171" key="GridCell.Tab.3.right/1920.1080/1920.1080" />
+    <state width="1877" height="312" key="GridCell.Tab.4.bottom" />
+    <state width="1877" height="312" key="GridCell.Tab.4.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="312" key="GridCell.Tab.4.center" />
+    <state width="1877" height="312" key="GridCell.Tab.4.center/1920.1080/1920.1080" />
+    <state width="1877" height="312" key="GridCell.Tab.4.left" />
+    <state width="1877" height="312" key="GridCell.Tab.4.left/1920.1080/1920.1080" />
+    <state width="1877" height="312" key="GridCell.Tab.4.right" />
+    <state width="1877" height="312" key="GridCell.Tab.4.right/1920.1080/1920.1080" />
+    <state x="445" y="162" key="SettingsEditor" />
+    <state x="445" y="162" key="SettingsEditor/1920.1080/1920.1080" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup/1920.1080/1920.1080" />
+    <state x="2536" y="240" key="run.anything.popup" />
+    <state x="2536" y="240" key="run.anything.popup/1920.1080/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="floatingJoystick.Vertical" language="C#" custom="RiderImportsList:" />
+        <watch expression="snapY" language="C#" custom="RiderImportsList:" />
+        <watch expression="input.y" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
