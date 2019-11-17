@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -11,26 +9,25 @@ public class PlayerMovement : MonoBehaviour
     private bool jump = false;
     public bool startCamera = false;
     public bool jumping = false;
-    [SerializeField] private FloatingJoystick floatingJoystick;
+    [SerializeField] private FixedJoystick fixedJoystick;
 
     public Rigidbody2D rb;
     private bool isLanding;
 
     private void Update()
     {
-        if (rb.velocity.y < 0)  //ускорение по У меньше нуля
+        if (rb.velocity.y < 0)
         {
             isLanding = true;
         }
         else isLanding = false;
 
         animator.SetBool("IsLanding", isLanding);
-
-        if (floatingJoystick.Horizontal >= 0.2)
+        
+        if (fixedJoystick.Horizontal >= 0.2)
         {
-            //horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
             horizontalMove = runSpeed;
-        }else if (floatingJoystick.Horizontal <= -0.2f)
+        }else if (fixedJoystick.Horizontal <= -0.2f)
         {
             horizontalMove = -runSpeed;
         }
@@ -40,14 +37,7 @@ public class PlayerMovement : MonoBehaviour
         }
         animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
 
-//        if (Input.GetButtonDown("Jump"))
-//        {
-//            jump = true;
-//            animator.SetBool("IsJumping", true);
-//        }
-//        
-        
-        if (floatingJoystick.Vertical >= 0.5f)
+        if (fixedJoystick.Vertical >= 0.5f)
         {
             Jumping();
         }

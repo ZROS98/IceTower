@@ -15,6 +15,7 @@ public class Restart : MonoBehaviour
     [SerializeField] private Text scoreText;
     [SerializeField] private PlayerMovement playerMovement;
     private CameraController cameraController;
+    [SerializeField] private GameObject buttonMenu;
 
     private void Start()
     {
@@ -31,6 +32,7 @@ public class Restart : MonoBehaviour
         gameObject.SetActive(false);
         scoreMenu.SetActive(true);
         scoreText.text = "0";
+        buttonMenu.SetActive(true);
         cameraController.jumpIsDone = false;
         cameraController.startCameraMovement = false;
         playerMovement.startCamera = false;

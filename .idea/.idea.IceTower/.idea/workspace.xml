@@ -13,29 +13,36 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A8DC567-3A4E-4788-B5AC-1561569747AB/bb/2a1b34d0/SendMouseEvents.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickSetterExample.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/47B3FEC5-F420-47E6-A737-8D0F615D9F0C/db/edaca4ad/VisualTreeUpdater.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/8a/9147425c/Component.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/599589BF-4CE2-4890-9B8A-14CBE4A2034E/b9/8edcd80f/IntPtr.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/FinalScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/DieSpace.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/FinalScore.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PoolObject/PlatformCreator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/c3/a9d74959/Renderer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PoolObject/Platform.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Restart.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ScoreController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScrollUV.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/f4/017ce60c/Object.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sounds/JumpSound.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base/Joystick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../CapsulePicker/Assets/Scripts/Spawner.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B711263B-E681-49A9-934E-586BE1EF07C3/46/d6c7cc90/Animator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_ColorGradient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickSetterExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/8a/9147425c/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/599589BF-4CE2-4890-9B8A-14CBE4A2034E/b9/8edcd80f/IntPtr.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/c3/a9d74959/Renderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/Restart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu/ScoreController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScrollUV.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4CD14385-55E6-4C0E-AEDA-2393D3C9CF4A/f4/017ce60c/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sounds/JumpSound.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -69,12 +76,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Joystick.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/JoystickController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DieSpace.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/CharacterController2D.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Sounds/JumpSound.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ScoreController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Restart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base/Joystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/DieSpace.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/CharacterController2D.cs" />
       </list>
     </option>
   </component>
@@ -107,10 +116,10 @@
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="3024">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="1784">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="3024" />
+      <option name="pid" value="1784" />
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
@@ -146,7 +155,8 @@
       <workItem from="1573315181718" duration="888000" />
       <workItem from="1573499339342" duration="9060000" />
       <workItem from="1573589418280" duration="1627000" />
-      <workItem from="1573668236638" duration="7148000" />
+      <workItem from="1573668236638" duration="7752000" />
+      <workItem from="1573928115623" duration="6985000" />
     </task>
     <servers />
   </component>
@@ -161,46 +171,46 @@
   <component name="WindowStateProjectService">
     <state width="401" height="465" key="DebuggerActiveHint" />
     <state width="401" height="465" key="DebuggerActiveHint/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.0.bottom" />
-    <state width="1877" height="171" key="GridCell.Tab.0.bottom/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.0.center" />
-    <state width="1877" height="171" key="GridCell.Tab.0.center/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.0.left" />
-    <state width="1877" height="171" key="GridCell.Tab.0.left/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.0.right" />
-    <state width="1877" height="171" key="GridCell.Tab.0.right/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.1.bottom" />
-    <state width="1877" height="171" key="GridCell.Tab.1.bottom/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.1.center" />
-    <state width="1877" height="171" key="GridCell.Tab.1.center/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.1.left" />
-    <state width="1877" height="171" key="GridCell.Tab.1.left/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.1.right" />
-    <state width="1877" height="171" key="GridCell.Tab.1.right/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.2.bottom" />
-    <state width="1877" height="171" key="GridCell.Tab.2.bottom/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.2.center" />
-    <state width="1877" height="171" key="GridCell.Tab.2.center/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.2.left" />
-    <state width="1877" height="171" key="GridCell.Tab.2.left/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.2.right" />
-    <state width="1877" height="171" key="GridCell.Tab.2.right/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.3.bottom" />
-    <state width="1877" height="171" key="GridCell.Tab.3.bottom/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.3.center" />
-    <state width="1877" height="171" key="GridCell.Tab.3.center/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.3.left" />
-    <state width="1877" height="171" key="GridCell.Tab.3.left/1920.1080/1920.1080" />
-    <state width="1877" height="171" key="GridCell.Tab.3.right" />
-    <state width="1877" height="171" key="GridCell.Tab.3.right/1920.1080/1920.1080" />
-    <state width="1877" height="312" key="GridCell.Tab.4.bottom" />
-    <state width="1877" height="312" key="GridCell.Tab.4.bottom/1920.1080/1920.1080" />
-    <state width="1877" height="312" key="GridCell.Tab.4.center" />
-    <state width="1877" height="312" key="GridCell.Tab.4.center/1920.1080/1920.1080" />
-    <state width="1877" height="312" key="GridCell.Tab.4.left" />
-    <state width="1877" height="312" key="GridCell.Tab.4.left/1920.1080/1920.1080" />
-    <state width="1877" height="312" key="GridCell.Tab.4.right" />
-    <state width="1877" height="312" key="GridCell.Tab.4.right/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.0.bottom" />
+    <state width="1877" height="238" key="GridCell.Tab.0.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.0.center" />
+    <state width="1877" height="238" key="GridCell.Tab.0.center/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.0.left" />
+    <state width="1877" height="238" key="GridCell.Tab.0.left/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.0.right" />
+    <state width="1877" height="238" key="GridCell.Tab.0.right/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.1.bottom" />
+    <state width="1877" height="238" key="GridCell.Tab.1.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.1.center" />
+    <state width="1877" height="238" key="GridCell.Tab.1.center/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.1.left" />
+    <state width="1877" height="238" key="GridCell.Tab.1.left/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.1.right" />
+    <state width="1877" height="238" key="GridCell.Tab.1.right/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.2.bottom" />
+    <state width="1877" height="238" key="GridCell.Tab.2.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.2.center" />
+    <state width="1877" height="238" key="GridCell.Tab.2.center/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.2.left" />
+    <state width="1877" height="238" key="GridCell.Tab.2.left/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.2.right" />
+    <state width="1877" height="238" key="GridCell.Tab.2.right/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.3.bottom" />
+    <state width="1877" height="238" key="GridCell.Tab.3.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.3.center" />
+    <state width="1877" height="238" key="GridCell.Tab.3.center/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.3.left" />
+    <state width="1877" height="238" key="GridCell.Tab.3.left/1920.1080/1920.1080" />
+    <state width="1877" height="238" key="GridCell.Tab.3.right" />
+    <state width="1877" height="238" key="GridCell.Tab.3.right/1920.1080/1920.1080" />
+    <state width="1877" height="269" key="GridCell.Tab.4.bottom" />
+    <state width="1877" height="269" key="GridCell.Tab.4.bottom/1920.1080/1920.1080" />
+    <state width="1877" height="269" key="GridCell.Tab.4.center" />
+    <state width="1877" height="269" key="GridCell.Tab.4.center/1920.1080/1920.1080" />
+    <state width="1877" height="269" key="GridCell.Tab.4.left" />
+    <state width="1877" height="269" key="GridCell.Tab.4.left/1920.1080/1920.1080" />
+    <state width="1877" height="269" key="GridCell.Tab.4.right" />
+    <state width="1877" height="269" key="GridCell.Tab.4.right/1920.1080/1920.1080" />
     <state x="445" y="162" key="SettingsEditor" />
     <state x="445" y="162" key="SettingsEditor/1920.1080/1920.1080" />
     <state width="968" height="528" key="XDebugger.FullValuePopup" />
@@ -219,9 +229,9 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
-        <watch expression="floatingJoystick.Vertical" language="C#" custom="RiderImportsList:" />
-        <watch expression="snapY" language="C#" custom="RiderImportsList:" />
-        <watch expression="input.y" language="C#" custom="RiderImportsList:" />
+        <watch expression="joystick" language="C#" custom="RiderImportsList:" />
+        <watch expression="horizontalMove" language="C#" custom="RiderImportsList:" />
+        <watch expression="fixedJoystick.Horizontal" language="C#" custom="RiderImportsList:" />
       </configuration>
     </watches-manager>
   </component>
