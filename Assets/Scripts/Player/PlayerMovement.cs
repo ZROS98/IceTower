@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private bool jump = false;
     public bool startCamera = false;
     public bool jumping = false;
-    [SerializeField] private FixedJoystick fixedJoystick;
+    [SerializeField] private Joystick joystick;
 
     public Rigidbody2D rb;
     private bool isLanding;
@@ -23,11 +23,11 @@ public class PlayerMovement : MonoBehaviour
         else isLanding = false;
 
         animator.SetBool("IsLanding", isLanding);
-        
-        if (fixedJoystick.Horizontal >= 0.2)
+
+        if (joystick.Horizontal >= 0.2)
         {
             horizontalMove = runSpeed;
-        }else if (fixedJoystick.Horizontal <= -0.2f)
+        }else if (joystick.Horizontal <= -0.2f)
         {
             horizontalMove = -runSpeed;
         }
@@ -37,7 +37,7 @@ public class PlayerMovement : MonoBehaviour
         }
         animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
 
-        if (fixedJoystick.Vertical >= 0.5f)
+        if (joystick.Vertical >= 0.5f)
         {
             Jumping();
         }

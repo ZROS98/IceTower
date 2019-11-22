@@ -593,7 +593,7 @@ MonoBehaviour:
   horizontalMove: 0
   startCamera: 0
   jumping: 0
-  fixedJoystick: {fileID: 897346785}
+  joystick: {fileID: 501978792}
   rb: {fileID: 490187449}
 --- !u!50 &490187449
 Rigidbody2D:
@@ -732,6 +732,31 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &501978789 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2929252283123773939, guid: aaa2c939c0359ac4dbce3f49e8b90252,
+    type: 3}
+  m_PrefabInstance: {fileID: 1839564623}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &501978792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 501978789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9fca4100a7477741b3973b4ff2c405f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  handleRange: 1
+  deadZone: 0
+  axisOptions: 1
+  snapX: 1
+  snapY: 0
+  background: {fileID: 897346784}
+  handle: {fileID: 1631926626}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1309,18 +1334,6 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 1839564623}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &897346785 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2929252283123773951, guid: aaa2c939c0359ac4dbce3f49e8b90252,
-    type: 3}
-  m_PrefabInstance: {fileID: 1839564623}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 45977bbae16431c46a013576a1aea384, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &979485268
 GameObject:
   m_ObjectHideFlags: 0
@@ -1611,8 +1624,8 @@ MonoBehaviour:
   scoreMenu: {fileID: 1224558260}
   death: {fileID: 1011416781}
   buttonMenu: {fileID: 1073512729}
-  joystick: {fileID: 897346785}
   player: {fileID: 490187446}
+  joystick: {fileID: 501978792}
 --- !u!82 &1011416781
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2492,6 +2505,14 @@ MonoBehaviour:
   scoreText: {fileID: 717692130}
   playerMovement: {fileID: 490187448}
   buttonMenu: {fileID: 1073512729}
+  scoreController: {fileID: 717692132}
+  joystick: {fileID: 501978792}
+--- !u!224 &1631926626 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 2929252285020697096, guid: aaa2c939c0359ac4dbce3f49e8b90252,
+    type: 3}
+  m_PrefabInstance: {fileID: 1839564623}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1695874635
 GameObject:
   m_ObjectHideFlags: 0
@@ -2999,6 +3020,11 @@ PrefabInstance:
       propertyPath: snapY
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2929252283123773951, guid: aaa2c939c0359ac4dbce3f49e8b90252,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2929252283123773937, guid: aaa2c939c0359ac4dbce3f49e8b90252,
         type: 3}
       propertyPath: m_Color.a
@@ -3015,7 +3041,8 @@ PrefabInstance:
       propertyPath: m_Color.a
       value: 0.39215687
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2929252283123773951, guid: aaa2c939c0359ac4dbce3f49e8b90252, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: aaa2c939c0359ac4dbce3f49e8b90252, type: 3}
 --- !u!1 &1974979428
 GameObject:

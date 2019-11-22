@@ -30,4 +30,13 @@ public class ScoreController : MonoBehaviour
             scoreText.text = score.ToString();
         }
     }
+
+    public void RestartScore()
+    {
+        startPlayerPositionY = 11;
+        currentHight = -11f;
+        oldHight = -11f;
+        score = 0;
+        scoreText.text = "0";
+    }
 }

@@ -16,6 +16,8 @@ public class Restart : MonoBehaviour
     [SerializeField] private PlayerMovement playerMovement;
     private CameraController cameraController;
     [SerializeField] private GameObject buttonMenu;
+    [SerializeField] private ScoreController scoreController;
+    [SerializeField] private Joystick joystick;
 
     private void Start()
     {
@@ -27,15 +29,17 @@ public class Restart : MonoBehaviour
     {
         PoolManager.ReturnPool();
         mainCamera.transform.position = new Vector3(0, 0, 0);
-        currentlyPlayerTransform.position = new Vector3(0, -11.985f, 8);
+        currentlyPlayerTransform.position = new Vector3(0, -11.94633f, 8);
         platformCreator.StartingSceneFilling();
         gameObject.SetActive(false);
         scoreMenu.SetActive(true);
-        scoreText.text = "0";
+        scoreController.RestartScore();
         buttonMenu.SetActive(true);
         cameraController.jumpIsDone = false;
         cameraController.startCameraMovement = false;
         playerMovement.startCamera = false;
+        joystick.SnapX = true;
+        joystick.input = Vector2.zero;
         Time.timeScale = 1;
     }
 }
