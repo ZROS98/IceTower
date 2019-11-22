@@ -14,16 +14,16 @@ public class DieSpace : MonoBehaviour
     [SerializeField] private GameObject buttonMenu;
     [SerializeField] private FixedJoystick joystick;
     [SerializeField] private GameObject player;
+
     private void Start()
     {
         santaCollider = player.GetComponent<Collider2D>();
         playerMovement = player.GetComponent<PlayerMovement>();
-       
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other = santaCollider)
+        if (other == santaCollider)
         {
             death.Play();
             StartCoroutine(TimeDelay(2f));
@@ -33,7 +33,6 @@ public class DieSpace : MonoBehaviour
     public IEnumerator TimeDelay(float seconds)
     {
         yield return new WaitForSeconds(seconds);
-        
         joystick.SnapX = true;
         scoreMenu.SetActive(false);
         buttonMenu.SetActive(false);
