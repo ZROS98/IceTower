@@ -1,8 +1,5 @@
-﻿using System;
-using UnityEngine;
-using UnityEngine.SceneManagement;
+﻿using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.UIElements;
 using UnityNightPool;
 using UnityNightPool.Example;
 
@@ -29,6 +26,11 @@ public class Restart : MonoBehaviour
 
     public void RestartGame()
     {
+        if (platformCreator == null)
+        {
+            Start();
+        }
+
         PoolManager.ReturnPool();
         mainCamera.transform.position = new Vector3(0, 0, 0);
         currentlyPlayerTransform.position = new Vector3(0, -11.94633f, 8);

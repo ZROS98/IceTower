@@ -25,7 +25,7 @@ namespace UnityNightPool.Example
         }
         void Update()
         {
-            if (oldPlatformPosition.y - transformPlayer.transform.position.y < cameraSizeY) //ATTENTION! FIX IT!
+            if (oldPlatformPosition.y - transformPlayer.transform.position.y < cameraSizeY)
             {
                 CreatePlatform();
             }
@@ -62,7 +62,7 @@ namespace UnityNightPool.Example
         public void StartingSceneFilling()
         {
             oldPlatformPosition = default_OldPlatformPosition;
-            while (oldPlatformPosition.y - transformPlayer.position.y < cameraSizeY) //ATTENTION! FIX IT!!!!!!!!!!!!!!!!!!!!!!!!!! SUKA
+            while (oldPlatformPosition.y - transformPlayer.position.y < cameraSizeY)
             {
                 CreatePlatform();
             }

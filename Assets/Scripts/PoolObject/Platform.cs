@@ -1,6 +1,5 @@
 ﻿using System.Collections;
 using UnityEngine;
-using UnityNightPool;
 
 namespace UnityNightPool.Example
 {
