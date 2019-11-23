@@ -12,7 +12,7 @@ public class JumpSound : MonoBehaviour
     private void Update()
     {
         bool grounded = characterController2D.m_Grounded;
-        if (playerMovement.jumping && grounded)
+        if (playerMovement.jumping && grounded && !jump.isPlaying) 
         {
             jump.Play();
         }
