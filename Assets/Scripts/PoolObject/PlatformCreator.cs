@@ -62,7 +62,7 @@ namespace UnityNightPool.Example
         public void StartingSceneFilling()
         {
             oldPlatformPosition = default_OldPlatformPosition;
-            while (oldPlatformPosition.y - transformPlayer.position.y < cameraSizeY) //ATTENTION! FIX IT!
+            while (oldPlatformPosition.y - transformPlayer.position.y < cameraSizeY) //ATTENTION! FIX IT!!!!!!!!!!!!!!!!!!!!!!!!!! SUKA
             {
                 CreatePlatform();
             }

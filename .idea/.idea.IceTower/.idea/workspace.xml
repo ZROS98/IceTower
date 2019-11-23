@@ -4,7 +4,8 @@
     <list default="true" id="34315a95-aa0f-4c68-b05f-c03d7577adf7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.IceTower/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IceTower/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PoolObject/PlatformCreator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PoolObject/PlatformCreator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Sounds/JumpSound.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Sounds/JumpSound.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/TMP_ColorGradient.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base/Joystick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Editor/JoystickEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/GameScene.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B711263B-E681-49A9-934E-586BE1EF07C3/46/d6c7cc90/Animator.cs" root0="SKIP_HIGHLIGHTING" />
@@ -79,13 +81,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/JoystickController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DieSpace.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Sounds/JumpSound.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Menu/ScoreController.cs" />
         <option value="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base/Joystick.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/CharacterController2D.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/DieSpace.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Restart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Restart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PoolObject/PlatformCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sounds/JumpSound.cs" />
       </list>
     </option>
   </component>
@@ -163,7 +166,7 @@
       <workItem from="1573951862331" duration="109000" />
       <workItem from="1573952008185" duration="3149000" />
       <workItem from="1574352836667" duration="308000" />
-      <workItem from="1574527979171" duration="1357000" />
+      <workItem from="1574527979171" duration="2464000" />
     </task>
     <servers />
   </component>
