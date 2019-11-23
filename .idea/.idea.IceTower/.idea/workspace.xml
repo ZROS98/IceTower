@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34315a95-aa0f-4c68-b05f-c03d7577adf7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.IceTower/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IceTower/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Menu/Restart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Menu/Restart.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +82,8 @@
         <option value="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base/Joystick.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/CharacterController2D.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/DieSpace.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Restart.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/Restart.cs" />
       </list>
     </option>
   </component>
@@ -163,7 +161,7 @@
       <workItem from="1573951862331" duration="109000" />
       <workItem from="1573952008185" duration="3149000" />
       <workItem from="1574352836667" duration="308000" />
-      <workItem from="1574527979171" duration="1357000" />
+      <workItem from="1574527979171" duration="1961000" />
     </task>
     <servers />
   </component>
