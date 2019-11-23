@@ -8,6 +8,7 @@ public class DieSpace : MonoBehaviour
     [SerializeField] private AudioSource death;
     [SerializeField] private GameObject buttonMenu;
     [SerializeField] private GameObject player;
+    [SerializeField] private GameMenu gameMenu;
 
     private void Start()
     {
@@ -22,7 +23,7 @@ public class DieSpace : MonoBehaviour
             scoreMenu.SetActive(false);
             buttonMenu.SetActive(false);
             afterDeathMenu.SetActive(true);
-            Time.timeScale = 0;
+            gameMenu.PauseGame();
 
         }
     }

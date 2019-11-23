@@ -4,7 +4,7 @@ using UnityNightPool;
 
 public class GameMenu : MonoBehaviour
 {
-    public bool isPaused = false;
+    private bool isPaused = false;
 
     public void PauseGame()
     {

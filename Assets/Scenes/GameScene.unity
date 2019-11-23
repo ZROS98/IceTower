@@ -1746,6 +1746,7 @@ MonoBehaviour:
   death: {fileID: 1011416781}
   buttonMenu: {fileID: 1073512729}
   player: {fileID: 490187446}
+  gameMenu: {fileID: 1092165846}
 --- !u!82 &1011416781
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2043,7 +2044,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09985f46f773bd94caab1906778dc884, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPaused: 0
 --- !u!1 &1158186252
 GameObject:
   m_ObjectHideFlags: 0
@@ -2413,12 +2413,6 @@ PrefabInstance:
     - {fileID: 2456374689546611031, guid: 2da3b498b16847248884d45956b67c48, type: 3}
     - {fileID: 5882033667060544673, guid: 2da3b498b16847248884d45956b67c48, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 2da3b498b16847248884d45956b67c48, type: 3}
---- !u!1 &1260270611 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3050937917085689608, guid: decb9955d2db75b4ab4388f8545a3349,
-    type: 3}
-  m_PrefabInstance: {fileID: 2111043186}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1364473870 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2302299781712889848, guid: 2da3b498b16847248884d45956b67c48,
@@ -2631,7 +2625,6 @@ MonoBehaviour:
   scoreController: {fileID: 717692132}
   joystick: {fileID: 929903306}
   background: {fileID: 206227399}
-  gameMenu: {fileID: 1092165846}
 --- !u!1 &1579275612
 GameObject:
   m_ObjectHideFlags: 0
@@ -3786,7 +3779,7 @@ PrefabInstance:
     - target: {fileID: 3050937917085689610, guid: decb9955d2db75b4ab4388f8545a3349,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3050937917085689610, guid: decb9955d2db75b4ab4388f8545a3349,
         type: 3}
@@ -3801,7 +3794,7 @@ PrefabInstance:
     - target: {fileID: 3050937917085689610, guid: decb9955d2db75b4ab4388f8545a3349,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
-      value: 6
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3050937917085689610, guid: decb9955d2db75b4ab4388f8545a3349,
         type: 3}
@@ -3811,7 +3804,7 @@ PrefabInstance:
     - target: {fileID: 3050937917085689610, guid: decb9955d2db75b4ab4388f8545a3349,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
-      value: SetActive
+      value: PauseGame
       objectReference: {fileID: 0}
     - target: {fileID: 3050937917085689610, guid: decb9955d2db75b4ab4388f8545a3349,
         type: 3}
@@ -3827,7 +3820,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
-      objectReference: {fileID: 1260270611}
+      objectReference: {fileID: 1092165846}
     - target: {fileID: 3050937917085689610, guid: decb9955d2db75b4ab4388f8545a3349,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_BoolArgument
