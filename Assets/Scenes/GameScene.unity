@@ -120,6 +120,12 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &206227399 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8170153792821263259, guid: 0d230cc8be529a542a08cb878ab14b18,
+    type: 3}
+  m_PrefabInstance: {fileID: 1894983914}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &309949603
 GameObject:
   m_ObjectHideFlags: 0
@@ -2493,6 +2499,7 @@ MonoBehaviour:
   buttonMenu: {fileID: 1073512729}
   scoreController: {fileID: 717692132}
   joystick: {fileID: 929903306}
+  background: {fileID: 206227399}
 --- !u!1 &1695874635
 GameObject:
   m_ObjectHideFlags: 0

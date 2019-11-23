@@ -19,6 +19,7 @@ public class Restart : MonoBehaviour
     [SerializeField] private GameObject buttonMenu;
     [SerializeField] private ScoreController scoreController;
     [SerializeField] private Joystick joystick;
+    [SerializeField] private GameObject background;
 
     private void Start()
     {
@@ -41,6 +42,7 @@ public class Restart : MonoBehaviour
         playerMovement.startCamera = false;
         joystick.SnapX = true;
         joystick.input = Vector2.zero;
+        background.SetActive(false);
         Time.timeScale = 1;
     }
 }
