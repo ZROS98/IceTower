@@ -37,10 +37,7 @@ public class PlayerMovement : MonoBehaviour
         }
         animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
 
-        if (joystick.Vertical >= 0.5f)
-        {
-            Jumping();
-        }
+        
     }
 
     public void onLanding()
