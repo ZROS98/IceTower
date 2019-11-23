@@ -45,6 +45,5 @@ public class Restart : MonoBehaviour
         joystick.SnapX = true;
         joystick.input = Vector2.zero;
         background.SetActive(false);
-        Time.timeScale = 1;
     }
 }
